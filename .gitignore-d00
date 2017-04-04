@@ -1,0 +1,16 @@
+# Ignore other files
+*
+
+# Day 00 Inclusions
+
+!ex01/testDay00.tar
+!ex02/exo2.tar
+!ex03/klist.txt
+!ex04/who_am_i.sh
+!ex05/people.sh
+!ex06/mobile-phone.ldif
+!ex07/midLS
+!ex08/z
+!ex09/b
+!ex10/clean
+!ex11/ft_magic
