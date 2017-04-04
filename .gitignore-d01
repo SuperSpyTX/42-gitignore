@@ -1,4 +1,6 @@
 # Ignore other files
+
+# NOT FINISHED
 *
 
 # Day 01 Inclusions
@@ -6,4 +8,4 @@
 !ex02/find_sh.sh
 !ex03/count_files.sh
 !ex04/MAC.sh
-!ex05/
+!ex05/"\?$*’KwaMe’*$?\"
