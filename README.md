@@ -4,13 +4,13 @@ These are .gitignore files, which will make certain commands a lot easier instea
 having to remember the files to turn in for each project.  This should make repositories on vogsphere a lot
 cleaner and only have the files needed to be turned in.
 
-Copy one of these files off this gist (<Command><C>) (according to which project) and save it as ```.gitignore```
+Copy one of these files off this gist (< Command >< C >) (according to which project) and save it as ```.gitignore```
 
 
 
 - ```vim .gitignore```
 - Hit **i**
-- <Command><V>
+- < Command >< V >
 - Save the file (ESC, :wq)
 
 Now you can run ```git add .``` without git adding additional files.  
