@@ -1,0 +1,9 @@
+# Ignore other files
+*
+
+# Day 01 Inclusions
+!ex01/print_groups.sh
+!ex02/find_sh.sh
+!ex03/count_files.sh
+!ex04/MAC.sh
+!ex05/
