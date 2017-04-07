@@ -7,7 +7,7 @@
 # Fix a bug with exclusions.
 !ex*/
 
-# Day 02 Inclusions
+# Day 03 Inclusions
 
 !ex00/ft_ft.c
 !ex01/ft_ultimate_ft.c
