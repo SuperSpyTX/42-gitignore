@@ -5,5 +5,7 @@
 !ex*/
 
 # Day 04 Inclusions
+# Make sure you're using the correct function name!
+# Files that match: ex00/ft_any_function_name.c
 
 !ex*/ft_*.c
