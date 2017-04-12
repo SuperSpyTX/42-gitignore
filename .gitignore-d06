@@ -1,0 +1,18 @@
+# Ignore other files
+*
+
+# Fix a bug with exclusions.
+!ex*/
+
+# Day 06 Inclusions
+
+!ex00/libft_creator.sh
+!ex00/ft_putchar.c
+!ex00/ft_swap.c
+!ex00/ft_putstr.c
+!ex00/ft_strlen.c
+!ex00/ft_strcmp.c
+!ex01/ft_print_program_name.c
+!ex02/ft_print_params.c
+!ex03/ft_rev_params.c
+!ex04/ft_sort_params.c
