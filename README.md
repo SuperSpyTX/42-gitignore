@@ -20,6 +20,6 @@ Now you can run ```git add .``` without git adding additional files that you don
 ## Contributors
 
 Thanks to the following for making .gitignores when I couldn't:
-- [@AlexEzzeddine](https://github.com/AlexEzzeddine], [@logankaser](https://github.com/LoganKaser), @amittal
+- [@AlexEzzeddine](https://github.com/AlexEzzeddine), [@logankaser](https://github.com/LoganKaser), @amittal
 
 _If you have a GitHub account, please let me know and I'll update this gist with it._ 
