@@ -1,8 +1,10 @@
-# README
+# 42-gitignore
 
-These are .gitignore files, which will make certain git commands a lot easier instead of 
+These are .gitignore files for [42's](https://42.us.org) C Piscine.  During the piscine, these files will make certain git commands a lot easier instead of 
 having to remember the files to turn in for each project.  This should make repositories on vogsphere a lot
 cleaner and only have the files needed to be turned in.
+
+## Instructions
 
 Copy one of these files off this gist (< Command >< C >) (according to which project) and save it as ```.gitignore```
 
@@ -15,11 +17,9 @@ Now you can run ```git add .``` without git adding additional files that you don
 
 **If you have already had committed files prior to adding .gitignore, run ```git rm -r --cached .``` to remove the files from git itself, then run ```git add .```.  The files that are supposed to be submitted at that time will be added.**
 
-Let me know if you need help.
+## Contributors
 
 Thanks to the following for making .gitignores when I couldn't:
-- @AlexEzzeddine, lkaser
+- @AlexEzzeddine, @logankaser, @amittal
 
 _If you have a GitHub account, please let me know and I'll update this gist with it._ 
-
-UPDATE (4/10/2017): I switched from vim to nano in my instructions because using vim for pasting gitignores is inefficient.

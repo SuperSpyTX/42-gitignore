@@ -9,9 +9,10 @@
 !ex01/print_groups.sh
 !ex02/find_sh.sh
 !ex03/count_files.sh
-!ex04/MAC.sh 
+!ex04/MAC.sh
 !ex05/* # Silly file name I can't figure it out.
 !ex06/skip.sh
 !ex07/r_dwssap.sh
 !ex08/bon.sh
 !ex09/add_chelou.sh
+
