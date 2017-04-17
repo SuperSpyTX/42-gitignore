@@ -1,0 +1,17 @@
+# Ignore other files
+*
+
+# Fix a bug with exclusions.
+!ex*/
+
+# Day 10 Inclusions
+!ex00/Makefile
+!ex01/ft_foreach.c
+!ex02/ft_map.c
+!ex03/ft_any.c
+!ex04/ft_count_if.c
+!ex05/ft_is_sort.c
+!ex06/*
+!ex07/ft_sort_wordtab.c
+!ex08/ft_advanced_sort_wordtab.c
+!ex08/*
