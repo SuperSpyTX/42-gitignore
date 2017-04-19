@@ -7,11 +7,18 @@
 # Day 10 Inclusions
 !ex00/Makefile
 !ex01/ft_foreach.c
+!ex01/ft_foreach.h
 !ex02/ft_map.c
+!ex02/ft_map.h
 !ex03/ft_any.c
+!ex03/ft_any.h
 !ex04/ft_count_if.c
+!ex04/ft_count_if.h
 !ex05/ft_is_sort.c
+!ex05/ft_is_sort.h
 !ex06/*
 !ex07/ft_sort_wordtab.c
+!ex07/ft_sort_wordtab.h
 !ex08/ft_advanced_sort_wordtab.c
+!ex08/ft_advanced_sort_wordtab.h
 !ex09/*
