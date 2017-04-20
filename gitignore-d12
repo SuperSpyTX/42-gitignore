@@ -1,0 +1,11 @@
+# Ignore other files
+*
+
+# Fix a bug with exclusions.
+!ex*/
+
+# Day 12 Inclusions
+
+!ex*/includes/*.h
+!ex*/srcs/*.c
+!ex*/Makefile
