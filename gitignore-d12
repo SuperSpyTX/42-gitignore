@@ -7,5 +7,5 @@
 # Day 12 Inclusions
 
 !ex*/includes/*.h
-!ex*/srcs/*.c
+!ex*/src/*.c
 !ex*/Makefile
